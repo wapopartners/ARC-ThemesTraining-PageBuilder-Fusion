@@ -1,6 +1,7 @@
 {
-  "resizerKey": "",
-  "playerRoot": "",
-  "videoOrg": "",
-  "searchKey": ""
+  "resizerKey": "%{AQICAHg2eiin8qff6P4EGB/1FRbLM/cvuIJC0SuBU1hGtAWDfwFjYaGPSGEnIX22+OOY/lRKAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMD/z5W1N2ju+USE4bAgEQgDv1ZgaBBnsPdKYD9WgAYUJPhVHA7aH4X9xKQ+NfoWRV7zuLjZXgDbNWhYF+EZRj4jvQKupUAvqcpcut3A==}",
+  "playerRoot": "arcthemestraining",
+  "videoOrg": "//d2w3jw6424abwq.cloudfront.net",
+  "searchKey": "",
+ "BLOCK_DIST_TAG": "beta"
 }
