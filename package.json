@@ -1,0 +1,35 @@
+{
+  "name": "arcthemestraining",
+  "version": "1.0.0",
+  "description": "Arc Themes Training",
+  "main": "index.js",
+  "scripts": {
+    "fusion": "fusion",
+    "start": "fusion start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@arc-fusion/cli": "^1.0.13"
+    "@babel/plugin-proposal-decorators": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "@babel/preset-react": "^7.0.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "dependencies": {
+    "@arc-core-components/content-schema_ans-feed-v0.6.2": "^0.1.7-beta.1",
+    "@arc-core-components/content-source_story-feed_author-v4": "^1.0.6-beta.0",
+    "@arc-core-components/content-source_story-feed_sections-v4": "^1.0.6-beta.0",
+    "@arc-core-components/content-source_story-feed_tag-v4": "^1.0.6-beta.0",
+    "arcads": "^1.4.5",
+    "htmlparser2": "^3.10.1",
+    "is-react": "^1.3.3",
+    "react-modal": "^3.8.1",
+    "react-oembed-container": "^0.3.0",
+    "sanitize-html": "^1.18.2",
+    "thumbor-lite": "^0.1.6"
+  }
+}
