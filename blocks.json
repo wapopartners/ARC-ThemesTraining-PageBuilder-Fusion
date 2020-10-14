@@ -66,13 +66,13 @@
   ],
   "engineSDK": "@wpmedia/engine-theme-sdk",
   "cssFramework": "@wpmedia/news-theme-css",
-  "cssImport": "~@wpmedia/news-theme-css/scss/index",
+  "cssImport": "@wpmedia/news-theme-css/scss/_index.scss",
   "sassImport": [
-    "~@wpmedia/news-theme-css/scss/_variables.scss",
-    "~@wpmedia/news-theme-css/scss/_functions.scss",
-    "~@wpmedia/news-theme-css/scss/_colors.scss",
-    "~@wpmedia/news-theme-css/scss/_breakpoints.scss",
-    "~@wpmedia/news-theme-css/scss/_mixins.scss"
+    "@wpmedia/news-theme-css/scss/_variables.scss",
+    "@wpmedia/news-theme-css/scss/_functions.scss",
+    "@wpmedia/news-theme-css/scss/_colors.scss",
+    "@wpmedia/news-theme-css/scss/_breakpoints.scss",
+    "@wpmedia/news-theme-css/scss/_mixins.scss"
   ],
   "sassVariableOverrides": [
     "$primary-font-family: $theme-primary-font-family;",
