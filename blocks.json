@@ -33,6 +33,7 @@
     "@wpmedia/numbered-list-block",
     "@wpmedia/overline-block",
     "@wpmedia/quad-chain-block",
+    "@wpmedia/related-content-content-source-block",
     "@wpmedia/results-list-block",
     "@wpmedia/right-rail-block",
     "@wpmedia/right-rail-advanced-block",
