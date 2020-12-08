@@ -2,6 +2,7 @@
   "org": "@wpmedia",
   "useLocal": false,
   "blocks": [
+    "@wpmedia/ads-block",
     "@wpmedia/global-phrases-block",
     "@wpmedia/alert-bar-block",
     "@wpmedia/article-body-block",
