@@ -2,6 +2,7 @@
   "org": "@wpmedia",
   "useLocal": false,
   "blocks": [
+    "@wpmedia/ads-block",
     "@wpmedia/global-phrases-block",
     "@wpmedia/alert-bar-block",
     "@wpmedia/article-body-block",
@@ -85,7 +86,7 @@
       "siteProperties": {
         "primaryLogo": "https://www.arcpublishing.com/pf/resources/svg/arc-logo.svg?d=21",
         "primaryLogoAlt": "Arc Publishing logo",
-        "dfpId": 0,
+        "dfpId": 701,
         "fontUrl": "https://fonts.google.com/specimen/Noto+Sans+JP?query=sans",
         "navColor": "light",
         "fallbackImage": "https://cloudfront-us-east-1.images.arcpublishing.com/arcthemestraining/6PKZES4FYJBB5GSRZO4WHAUXAY.png",
