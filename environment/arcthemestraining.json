@@ -3,7 +3,5 @@
   "playerRoot": "arcthemestraining",
   "videoOrg": "//d2w3jw6424abwq.cloudfront.net",
   "searchKey": "",
-  "BLOCK_DIST_TAG": "stable",
-  "CSS_DIST_TAG": "stable",
-  "ENGINE_SDK_DIST_TAG": "stable"
+  "BLOCK_DIST_TAG": "stable"
 }
